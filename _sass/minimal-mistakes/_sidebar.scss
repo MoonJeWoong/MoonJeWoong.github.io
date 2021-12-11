@@ -175,13 +175,42 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: 17px;
+
+  @include breakpoint($medium) {
+    font-size: 20px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 20px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 17px;
+  }
+
 }
 
 .author__bio {
   margin: 0;
-  font-size: 16px;
+  // font-size: 16px;
+  // @include breakpoint($medium) {
+  //   margin-top: 10px;
+  //   margin-bottom: 20px;
+  // }
   @include breakpoint($medium) {
+    font-size: 17px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  @include breakpoint($large) {
+    font-size: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 17px;
     margin-top: 10px;
     margin-bottom: 20px;
   }
