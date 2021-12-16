@@ -6,6 +6,17 @@ author_profile: true
 ---
 <br/><br/>
 
+# 정리해서 포스팅할 리스트
+
+<br/>
+
+## Python
+ - 문자열 내장 함수 내용 정리
+
+
+
+<br/><br/><br/><br/>
+
 # 공부 계획 (2021.12.13)
 
 <br/>
@@ -46,6 +57,8 @@ aws 자격증 활용법 고민 + cs지식활용
 
 # 볼만한 책들
  - [21개의 작고 재미난 파이썬 프로젝트](https://brunch.co.kr/@topasvga/1808)
+
+<br/><br/>
 
 # 할만한 것들
  - [직무부트캠프](https://comento.kr/edu)
