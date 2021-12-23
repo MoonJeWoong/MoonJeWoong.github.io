@@ -44,4 +44,4 @@ toc_label: Index
 
 ---------------------------------------------------------------
 ## 참고한 출처
-- https://www.acmicpc.net/board/view/39199
+- [https://www.acmicpc.net/board/view/39199](https://www.acmicpc.net/board/view/39199)
