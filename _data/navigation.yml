@@ -2,7 +2,7 @@
 main:
   - title: "팀 소개"
     url: /about/
-  - title: "도메인 별 글모음"
+  - title: "카테고리"
     url: /categories/
   - title: "태그"
     url: /tags/
